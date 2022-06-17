@@ -1,7 +1,6 @@
 package com.bridgelabz.objectorientedprogram;
 
 import java.util.Scanner;
-
 class Stock {
 
     private String shareName;
