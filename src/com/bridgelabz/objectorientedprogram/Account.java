@@ -1,3 +1,5 @@
+package com.bridgelabz.objectorientedprogram;
+
 class AccountBalance  {
     private double balance=5000;
 
